@@ -14,6 +14,6 @@ Each project is hosted in its own repository and linked below.
 | [**Project 2 – CS50AI (PageRank)**](https://github.com/AFKMartin/CS50AI-Project-2-PageRank) | Repository containing Project 2 of CS50AI. | Python |
 | [**Project 2 – CS50AI (Heredity)**](https://github.com/AFKMartin/CS50AI-Project-2-Heredity) | Repository containing Project 2 of CS50AI. | Python |
 | [**Project 3 – CS50AI (Crossword)**](https://github.com/AFKMartin/CS50AI-Project-3-Crossword) | Repository containing Project 3 of CS50AI. | Python |
+| [**Project 4 – CS50AI (Shopping)**](https://github.com/AFKMartin/CS50AI-Project-4-Shopping) | Repository containing Project 4 of CS50AI. | Python |
+| [**Project 4 – CS50AI (Nim)**](https://github.com/AFKMartin/CS50AI-Project-4-Nim) | Repository containing Project 4 of CS50AI. | Python |
 ---
-
-
