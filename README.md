@@ -16,4 +16,7 @@ Each project is hosted in its own repository and linked below.
 | [**Project 3 – CS50AI (Crossword)**](https://github.com/AFKMartin/CS50AI-Project-3-Crossword) | Repository containing Project 3 of CS50AI. | Python |
 | [**Project 4 – CS50AI (Shopping)**](https://github.com/AFKMartin/CS50AI-Project-4-Shopping) | Repository containing Project 4 of CS50AI. | Python |
 | [**Project 4 – CS50AI (Nim)**](https://github.com/AFKMartin/CS50AI-Project-4-Nim) | Repository containing Project 4 of CS50AI. | Python |
+| [**Project 5 – CS50AI (Traffic)**](https://github.com/AFKMartin/CS50AI-Project-5-Traffic) | Repository containing Project 5 of CS50AI. | Python |
+| [**Project 6 – CS50AI (Parser)**](https://github.com/AFKMartin/CS50AI-Project-6-Parser) | Repository containing Project 6 of CS50AI. | Python |
+| [**Project 6 – CS50AI (Attention)**](https://github.com/AFKMartin/CS50AI-Project-6-Attention) | Repository containing Project 6 of CS50AI. | Python |
 ---
