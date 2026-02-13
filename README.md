@@ -20,3 +20,7 @@ Each project is hosted in its own repository and linked below.
 | [**Project 6 – CS50AI (Parser)**](https://github.com/AFKMartin/CS50AI-Project-6-Parser) | Repository containing Project 6 of CS50AI. | Python |
 | [**Project 6 – CS50AI (Attention)**](https://github.com/AFKMartin/CS50AI-Project-6-Attention) | Repository containing Project 6 of CS50AI. | Python |
 ---
+
+## Credentials ##
+
+[**My CS50AI Certificate**](https://certificates.cs50.io/a303da9c-ade8-425b-ac06-1602170fb3b4.pdf?size=letter)
